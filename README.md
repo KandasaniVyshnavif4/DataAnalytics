@@ -3,3 +3,4 @@ I will explain all the steps that I have done in this project.
 Download  a data set 
 load the data in the Excel sheet  using " DATA " ->  file/csv  -> load
 the data is loaded in the sheet.
+We make the use of power Query editor, It provides more functionalty for manupulating the data
