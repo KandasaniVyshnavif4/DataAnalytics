@@ -7,4 +7,5 @@ load the data in the Excel sheet  using " DATA " ->  file/csv  -> load
 the data is loaded in the sheet.
 now create new coums on your requirement
 After transform raw data into an organised data we need to create dashboard
+raw date ->> data cleaning "using transform -> load "->> creating new columns accordingly -->> pivote "creating infromation from data" -> creating dashborad "pictorial representation of data" 
 
